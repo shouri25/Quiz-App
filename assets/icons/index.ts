@@ -1,0 +1,16 @@
+export const Icons = {
+  Home: require('./home.png'),
+  Discover: require('./discover.png'),
+  Activity: require('./activity.png'),
+  Bookmark: require('./bookmark.png'),
+  Profile: require('./profile.png'),
+  SuperLike: require('./super_like.png'),
+  Clock: require('./clock.png'),
+  Search: require('./search.png'),
+  Playist: require('./playlist.png'),
+  arrow: require('./arrow.png'),
+  like: require('./like.png'),
+  comment: require('./comments.png'),
+  share: require('./share.png'),
+  selected: require('./selected.png'),
+};
