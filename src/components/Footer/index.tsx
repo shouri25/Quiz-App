@@ -1,3 +1,4 @@
+
 import React from 'react';
 import {Image, StyleSheet, Text, View} from 'react-native';
 import {Icons} from '../../../assets/icons';
@@ -69,6 +70,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#000',
     borderTopColor: 'rgba(255, 255, 255, 0.20)',
     borderTopWidth: StyleSheet.hairlineWidth,
+    height: 55,
   },
   item: {
     padding: 8,
